@@ -1,0 +1,10 @@
+.flex{
+   display: flex;
+   gap: 30px;
+}
+.input-custom{
+   width: 50% !important;
+}
+.con{
+   width: 240px;
+}
